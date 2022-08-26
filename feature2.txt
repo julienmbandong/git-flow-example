@@ -1,0 +1,3 @@
+# New feature 2
+Creation de la nouvelle fonctionnalité.
+'git flow feature start 'MYFEATURE2_BRANCH'
